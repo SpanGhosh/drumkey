@@ -47,4 +47,7 @@ body{
         background-image: url('./images/aeverv.jpg');
         background-size: 100vh;
     }
+    .contain{
+        padding-top: 15vh;
+    }
 }
